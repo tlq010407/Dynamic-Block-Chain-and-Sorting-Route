@@ -1,0 +1,66 @@
+Timestamp:
+Tue Sep 12 13:20:51 2020
+Employee ID:
+2522
+Name:
+Shannon Lee Chung Jin
+Employment Type:Contract | Department: Administration | Branch: Semenyih, Selangor |
+---------------------------------------------------------
+Timestamp:
+Tue Sep 12 13:20:51 2020
+Patient ID:
+197588
+Sickness:
+obesity
+Medicine Collection Type: (regular) every week | Outpatient clinic visit no. since 01/01/2023: 3 rd time | Panel clinic name: Kesihatan |
+---------------------------------------------------------
+Timestamp:
+Tue Sep 12 13:20:51 2020
+Transaction ID:
+91428
+Outpatient Credit Balance: RM1,855.00 | Inpatient Credit Balance: RM30,000.00 | Disease: chronic illness | Payment type: Auto-deduction | Outpatient visiting limit: (unlimited) |
+---------------------------------------------------------
+Timestamp:
+Tue Apr 12 13:20:51 2021
+Employee ID:
+2245
+Name:
+Tang Liqi
+Employment Type:Teconology | Department: Computer Science | Branch: Semenyih, Selangor |
+---------------------------------------------------------
+Timestamp:
+Tue Apr 12 13:20:51 2021
+Patient ID:
+179967
+Sickness:
+Rhinitis
+Medicine Collection Type: (nonregular) every year | Outpatient clinic visit no. since 02/16/2020: 3 rd time | Panel clinic name: Kesihatan |
+---------------------------------------------------------
+Timestamp:
+Tue Apr 12 13:20:51 2021
+Transaction ID:
+18583
+Outpatient Credit Balance: RM1,055.00 | Inpatient Credit Balance: RM15,000.00 | Disease: chronic illness | Payment type: Auto-deduction | Outpatient visiting limit: (unlimited) |
+---------------------------------------------------------
+Timestamp:
+Tue Sep 12 13:20:51 2023
+Employee ID:
+2371
+Name:
+XueShun Lim
+Employment Type:Teacher | Department: Electronic Engineering | Branch: Semenyih, Selangor |
+---------------------------------------------------------
+Timestamp:
+Tue Sep 12 13:20:51 2023
+Patient ID:
+231578
+Sickness:
+Dermatitis,Stroke
+Medicine Collection Type: (regular) every month | Outpatient clinic visit no. since 03/15/2022: 7 th time | Panel clinic name: Kesihatan |
+---------------------------------------------------------
+Timestamp:
+Tue Sep 12 13:20:51 2023
+Transaction ID:
+86472
+Outpatient Credit Balance: RM2,055.00 | Inpatient Credit Balance: RM35,000.00 | Disease: chronic illness | Payment type: Auto-deduction | Outpatient visiting limit: (unlimited) |
+---------------------------------------------------------

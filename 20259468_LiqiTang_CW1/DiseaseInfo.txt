@@ -1,0 +1,52 @@
+Influenza
+Fever, cough, sore throat
+Rest and antiviral medications
+---------------------------------------------------------
+Malaria
+Fever, chills, fatigue
+Antimalarial drugs
+---------------------------------------------------------
+Coronary Heart Disease
+Chest pain (angina), shortness of breath, fatigue
+Lifestyle changes, medications, angioplasty, or bypass surgery
+---------------------------------------------------------
+Stroke
+Sudden numbness or weakness in the face, arm, or leg; confusion; trouble speaking or understanding; severe headache
+Emergency medical care, medications, physical therapy, and lifestyle changes
+---------------------------------------------------------
+Influenza & Pneumonia
+Fever, cough, sore throat, chills, difficulty breathing (pneumonia)
+Rest, fluids, antiviral medications (for influenza), antibiotics (for bacterial pneumonia)
+---------------------------------------------------------
+Lung Diseases
+Varies depending on the specific lung disease but may include shortness of breath, coughing, wheezing, and chest pain
+Treatment varies widely based on the specific lung disease and may include medications, oxygen therapy, or surgery
+---------------------------------------------------------
+Lung Cancer
+Persistent cough, chest pain, coughing up blood, unexplained weight loss
+Surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy
+---------------------------------------------------------
+Diabetes Mellitus
+Increased thirst, frequent urination, fatigue, blurred vision
+Lifestyle changes, blood sugar monitoring, medications (insulin or oral), and insulin therapy
+---------------------------------------------------------
+Breast Cancer
+Lump in the breast, changes in breast size or shape, nipple discharge, breast pain
+Surgery (mastectomy or lumpectomy), chemotherapy, radiation therapy, hormone therapy, targeted therapy
+---------------------------------------------------------
+Diabetes
+Increased thirst, frequent urination, fatigue, blurred vision
+Lifestyle changes (diet and exercise), blood sugar monitoring, medications (insulin or oral), and insulin therapy as needed.
+---------------------------------------------------------
+Hypertension
+Often asymptomatic, but in severe cases, it can lead to headaches, shortness of breath, nosebleeds, and chest pain.
+Lifestyle changes (diet, exercise, stress management), antihypertensive medications, and regular blood pressure monitoring.
+---------------------------------------------------------
+Rhinitis
+Runny or stuffy nose, sneezing, itching, and nasal congestion. It can be caused by allergens (allergic rhinitis) or non-allergenic factors (non-allergic rhinitis).
+Management includes allergen avoidance, antihistamines, decongestants, nasal corticosteroids, and immunotherapy (for allergic rhinitis).
+---------------------------------------------------------
+Dermatitis
+Skin inflammation, redness, itching, and rashes. Dermatitis can vary in severity and may be triggered by allergies, irritants, or genetics.
+Moisturizers, topical corticosteroids, antihistamines (for itching), and lifestyle modifications to avoid triggers.
+---------------------------------------------------------
